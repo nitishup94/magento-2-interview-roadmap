@@ -4,15 +4,45 @@
 
 ---
 
+<a id="301-how-would-you-add-a-custom-attribute-to-the-product-and-expose-it-via-rest-api"></a>
+### 30.1 "How would you add a custom attribute to the product and expose it via REST API?"
+
 - [ ] **30.1** "How would you add a custom attribute to the product and expose it via REST API?"
+<a id="302-how-would-you-override-a-core-magento-class"></a>
+### 30.2 "How would you override a core Magento class?" — Plugin first, then Preference
+
 - [ ] **30.2** "How would you override a core Magento class?" — Plugin first, then Preference
+<a id="303-the-site-is-slow-after-a-deploy"></a>
+### 30.3 "The site is slow after a deploy — how do you debug?" — Profiler, logs, cache, indexers
+
 - [ ] **30.3** "The site is slow after a deploy — how do you debug?" — Profiler, logs, cache, indexers
+<a id="304-design-an-inventory-sync-system-between-amazon-and-magento"></a>
+### 30.4 "Design an inventory sync system between Amazon and Magento" — Queue, MSI, idempotency
+
 - [ ] **30.4** "Design an inventory sync system between Amazon and Magento" — Queue, MSI, idempotency
+<a id="305-how-would-you-create-a-custom-payment-gateway"></a>
+### 30.5 "How would you create a custom payment gateway?" — Redirect flow, webhook, order sync
+
 - [ ] **30.5** "How would you create a custom payment gateway?" — Redirect flow, webhook, order sync
+<a id="306-how-would-you-implement-a-custom-shipping-carrier"></a>
+### 30.6 "How would you implement a custom shipping carrier?" — `AbstractCarrier`, `collectRates()`
+
 - [ ] **30.6** "How would you implement a custom shipping carrier?" — `AbstractCarrier`, `collectRates()`
+<a id="307-how-would-you-add-a-new-step-to-the-checkout"></a>
+### 30.7 "How would you add a new step to the checkout?" — Hyva checkout customization, step component
+
 - [ ] **30.7** "How would you add a new step to the checkout?" — Hyva checkout customization, step component
+<a id="308-how-would-you-build-a-semantic-product-search"></a>
+### 30.8 "How would you build a semantic product search?" — ES embedding, kNN, RAG pipeline
+
 - [ ] **30.8** "How would you build a semantic product search?" — ES embedding, kNN, RAG pipeline
+<a id="309-how-do-you-prevent-a-plugin-from-running-in-a-specific-area"></a>
+### 30.9 "How do you prevent a plugin from running in a specific area?" — Area check in plugin logic
+
 - [ ] **30.9** "How do you prevent a plugin from running in a specific area?" — Area check in plugin logic
+<a id="3010-how-would-you-debug-a-cron-job-that-is-not-running"></a>
+### 30.10 "How would you debug a cron job that is not running?" — `cron_schedule` table, group config, log check
+
 - [ ] **30.10** "How would you debug a cron job that is not running?" — `cron_schedule` table, group config, log check
 
 ---
