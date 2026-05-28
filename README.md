@@ -7,7 +7,7 @@
 
 | Chapter | Topics | Status |
 |---------|--------|--------|
-| [CH-01: Architecture & Request Lifecycle](chapters/ch-01-architecture-request-lifecycle.md) | 8 topics | [ ] |
+| [CH-01: Architecture & Request Lifecycle](chapters/ch-01-architecture-request-lifecycle.md) | 8 topics | [✔] |
 | [CH-02: Dependency Injection & Object Manager](chapters/ch-02-dependency-injection-object-manager.md) | 7 topics | [ ] |
 | [CH-03: Module Development](chapters/ch-03-module-development.md) | 10 topics | [ ] |
 | [CH-04: Plugin System & Interceptors](chapters/ch-04-plugin-system-interceptors.md) | 6 topics | [ ] |
@@ -42,15 +42,15 @@
 
 ## 📚 Chapters
 
-- [CH-01: Architecture & Request Lifecycle](chapters/ch-01-architecture-request-lifecycle.md)
-  - [1.1 Magento 2 overall architecture overview — areas, layers, components](chapters/ch-01-architecture-request-lifecycle.md#11-magento-2-overall-architecture-overview)
-  - [1.2 Application areas — `frontend`, `adminhtml`, `crontab`, `webapi_rest`, `graphql`, `doc`](chapters/ch-01-architecture-request-lifecycle.md#12-application-areas)
-  - [1.3 Request lifecycle — `index.php` → Bootstrap → App → FrontController → Router → Controller](chapters/ch-01-architecture-request-lifecycle.md#13-request-lifecycle)
-  - [1.4 Router types — standard, admin, CMS, default (404)](chapters/ch-01-architecture-request-lifecycle.md#14-router-types)
-  - [1.5 Controller anatomy — `execute()`, `ResultFactory`, redirect vs page vs JSON response](chapters/ch-01-architecture-request-lifecycle.md#15-controller-anatomy)
-  - [1.6 Action URL structure — `frontName/controller/action`](chapters/ch-01-architecture-request-lifecycle.md#16-action-url-structure)
-  - [1.7 Magento directory structure — `app/`, `vendor/`, `pub/`, `var/`, `generated/`](chapters/ch-01-architecture-request-lifecycle.md#17-magento-directory-structure)
-  - [1.8 Module file structure — `registration.php`, `module.xml`, `etc/`, `Block/`, `Controller/`, `Model/`, `view/`](chapters/ch-01-architecture-request-lifecycle.md#18-module-file-structure)
+- [✔] [CH-01: Architecture & Request Lifecycle](chapters/ch-01-architecture-request-lifecycle.md)
+  - [✔] [1.1 Magento 2 overall architecture overview — areas, layers, components](chapters/ch-01-architecture-request-lifecycle.md#11-magento-2-overall-architecture-overview)
+  - [✔] [1.2 Application areas — `frontend`, `adminhtml`, `base`, `crontab`, `webapi_rest`, `graphql`](chapters/ch-01-architecture-request-lifecycle.md#12-application-areas)
+  - [✔] [1.3 Request lifecycle — `index.php` → Bootstrap → App → FrontController → Router → Controller](chapters/ch-01-architecture-request-lifecycle.md#13-request-lifecycle)
+  - [✔] [1.4 Router types — standard, admin, CMS, default (404)](chapters/ch-01-architecture-request-lifecycle.md#14-router-types)
+  - [✔] [1.5 Controller anatomy — `execute()`, `ResultFactory`, redirect vs page vs JSON response](chapters/ch-01-architecture-request-lifecycle.md#15-controller-anatomy)
+  - [✔] [1.6 Action URL structure — `frontName/controller/action`](chapters/ch-01-architecture-request-lifecycle.md#16-action-url-structure)
+  - [✔] [1.7 Magento directory structure — `app/`, `vendor/`, `pub/`, `var/`, `generated/`](chapters/ch-01-architecture-request-lifecycle.md#17-magento-directory-structure)
+  - [✔] [1.8 Module file structure — `registration.php`, `module.xml`, `etc/`, `Block/`, `Controller/`, `Model/`, `view/`](chapters/ch-01-architecture-request-lifecycle.md#18-module-file-structure)
 
 - [CH-02: Dependency Injection & Object Manager](chapters/ch-02-dependency-injection-object-manager.md)
   - [2.1 What is Dependency Injection — constructor vs method vs property injection](chapters/ch-02-dependency-injection-object-manager.md#21-what-is-dependency-injection)
