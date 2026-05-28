@@ -313,22 +313,6 @@
 
 ---
 
-## 📁 Repository Structure
----
-
-## 📁 Repository Structure
-
-```
-magento-2-interview-roadmap/
-├── README.md
-├── chapters/          # Chapter-wise study notes
-├── assets/
-│   ├── images/        # Screenshots & diagrams
-│   └── diagrams/      # Architecture & flow diagrams
-```
-
----
-
 ## 🔖 Quick Reference — Key Files & Commands
 
 ### Essential CLI Commands
@@ -374,10 +358,3 @@ bin/magento queue:consumers:start consumerName
 | Composite | Layout block tree |
 | Decorator | Plugin chain wrapping |
 
----
-
----
-
-## Assets
-
-Place chapter images in [`assets/images/`](assets/images/) and architecture diagrams in [`assets/diagrams/`](assets/diagrams/).
